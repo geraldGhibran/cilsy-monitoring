@@ -14,7 +14,7 @@ metadata:
 spec:
   rules:
   ## Service Location n Characters
-  - host: efk.rizkyramadhan.info
+  - host: efk.jokoss.site
     http:
       paths:  
       - path: /
