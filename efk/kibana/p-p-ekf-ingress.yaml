@@ -14,7 +14,7 @@ metadata:
 spec:
   rules:
   ## Service Location n Characters
-  - host: efk.jokoss.site
+  - host: efk.vladgerald.tech
     http:
       paths:  
       - path: /
